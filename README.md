@@ -1,5 +1,5 @@
 # PropertyTokenizationDapp
-<b>Dapp to tokenize property and use it as an investment</b>
+<b>Dapp to tokenize property and use it as an investment changed version</b>
 
 # Install the dependencies:<br>
 <b>1)</b> NodeJs from https://nodejs.org/en/ <br>
